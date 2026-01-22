@@ -63,7 +63,7 @@ One notable observation was the frequent appearance of specific countries, such 
 
 The datasets used in this project are available for download:
 
-- [Download Earthquake Search Results](assets/search-result-1.csv)
+- [Download Earthquake Search Results](https://raw.githubusercontent.com/Lily-Liu61/Web_Data_Collection_Visualization/main/assets/search-result-1.csv)
 - [Download Tsunami Search Results](assets/search-result-2.csv)
 
 ---
