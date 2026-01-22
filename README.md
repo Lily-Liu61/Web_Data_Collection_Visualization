@@ -1,8 +1,3 @@
-# Web_Data_Collection_Visualization
-# generate_readme.py
-# This script generates a README.md file for the YouTube crawling lab
-
-readme_content = f"""
 # 📊 YouTube Disaster Discourse Analysis: Tsunami vs. Earthquake
 
 ## 1. Research Topic and Search Parameters
