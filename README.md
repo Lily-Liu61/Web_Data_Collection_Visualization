@@ -27,9 +27,11 @@ The reasons for choosing "tsunami" and "earthquake" as contrasting topics are as
 ## 3. Word Cloud Comparison
 
 ![Earthquake Word Cloud](img/wordcloud-1.png)
+
 **Figure 1. Word cloud for "Earthquake"**
 
 ![Tsunami Word Cloud](img/wordcloud-2.png)
+
 **Figure 2. Word cloud for "Tsunami"**
 
 ### Comparative Analysis
